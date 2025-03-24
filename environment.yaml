@@ -268,4 +268,5 @@ dependencies:
   - pip:
       - et-xmlfile==2.0.0
       - openpyxl==3.1.5
+      - xgboost==1.7.6
 prefix: /home/divyas/miniconda3/envs/ADHD_WIDS
