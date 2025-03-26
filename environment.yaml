@@ -271,4 +271,6 @@ dependencies:
       - xgboost==1.7.6
       - lightgbm
       - catboost
+      - pytorch-widedeep
+
 prefix: /home/divyas/miniconda3/envs/ADHD_WIDS
